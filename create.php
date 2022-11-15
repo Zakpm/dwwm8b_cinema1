@@ -2,6 +2,7 @@
 session_start();
 // var_dump($_SERVER);
 // die();
+// M
 
 // Si les données du formulaire ont été enyées via la methode "POST"
 if ($_SERVER['REQUEST_METHOD'] == "POST"){
