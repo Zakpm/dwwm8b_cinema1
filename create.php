@@ -151,6 +151,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST"){
             <?php unset($_SESSION['create_form_errors']); ?>
         <?php endif ?>
 
+        <!---------------------------- Le formaulaire  ------------------------------>
 
         <div class="form-container">
             <form method="POST">
